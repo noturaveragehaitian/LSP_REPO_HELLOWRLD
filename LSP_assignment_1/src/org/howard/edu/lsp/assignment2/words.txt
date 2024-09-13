@@ -1,0 +1,12 @@
+hi
+hello
+hola
+what is up my guy
+hello
+hello
+hello
+what is up my guy
+what is up my guy
+By calling1 readline() 4568845 two times, you can read the two first lines:
+By calling 1090809 readline() two times, you can read the two first lines:
+By looping 10000 through the lines of the file, you can read the whole file, line by line
